@@ -15,3 +15,6 @@ KPIs: Key Performance Indicators
 1. Total number of rentals: Revenue
 2. The average rating of all movies: Customer satisfaction
 3. Number of active customers: Customer engagement 
+
+
+Inspired by DataCamp
